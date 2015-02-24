@@ -19,7 +19,7 @@ Source: common sense
 1. Mix all ingredients
 2. Put in desired container. Traditionally, [test tubes][a5] [were used][t0]
 
-Note: Citric Acid + Sodiumbicarbonate are hydrophillic as hell, don't let too much air humidity (or even other sources of water) touch the powder.
+> Note: Citric Acid + Sodiumbicarbonate are hydrophillic as hell, don't let too much air humidity (or even other sources of water) touch the powder.
 
 ### for the drink
 1. Mix powder with water

@@ -7,7 +7,7 @@ Source: [30C3 wiki][cWiki]
 |-------------------------|-------:|--------------------|
 | sugar                   | 81.84% | local whatever     |
 | guarana                 |  6.19% | [amazon][aGuarana] |
-| citric qcid             |  5.29% | [amazon][aCitAc]   |
+| citric acid             |  5.29% | [amazon][aCitAc]   |
 | sodiumbicarbonate       |  2.59% | [amazon][aNaHCO3]  |
 | aroma                   |  2.50% |                    |
 | &nbsp;&nbsp; cherry     |        | [amazon][aCherry]  |

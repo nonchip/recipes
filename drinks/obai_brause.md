@@ -5,14 +5,14 @@ Source: [30C3 wiki][cWiki]
 
 | Ingredient              | Amount | Sources            |
 |-------------------------|-------:|--------------------|
-| Sugar                   | 81.84% | local whatever     |
-| Guarana                 |  6.19% | [amazon][aGuarana] |
-| Citric Acid             |  5.29% | [amazon][aCitAc]   |
-| Sodiumbicarbonate       |  2.59% | [amazon][aNaHCO3]  |
-| Aroma                   |  2.50% |                    |
-| &nbsp;&nbsp; Cherry     |        | [amazon][aCherry]  |
-| &nbsp;&nbsp; Strawberry |        | [amazon][aStrawB]  |
-| Caffeine                |  1.60% | [amazon][aCaff]    |
+| sugar                   | 81.84% | local whatever     |
+| guarana                 |  6.19% | [amazon][aGuarana] |
+| citric qcid             |  5.29% | [amazon][aCitAc]   |
+| sodiumbicarbonate       |  2.59% | [amazon][aNaHCO3]  |
+| aroma                   |  2.50% |                    |
+| &nbsp;&nbsp; cherry     |        | [amazon][aCherry]  |
+| &nbsp;&nbsp; strawberry |        | [amazon][aStrawB]  |
+| caffeine                |  1.60% | [amazon][aCaff]    |
 
 ## Directions
 Source: common sense
@@ -21,7 +21,7 @@ Source: common sense
 1. Mix all ingredients
 2. Put in desired container. Traditionally, [test tubes][aTTube] [were used][tTTube]
 
-> Note: Citric Acid + Sodiumbicarbonate are hydrophillic as hell, don't let any water touch the powder. Even air humidity will mess it up, so be careful!
+> Note: citric acid + sodiumbicarbonate are hydrophillic as hell, don't let any water touch the powder. Even air humidity will mess it up, so be careful!
 
 ### drink
 I'd recommend to:

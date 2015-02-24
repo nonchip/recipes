@@ -1,16 +1,16 @@
 # OBAI Brause
 
 ## Ingredients
-Source: [0]
+Source: [30C3 wiki][0]
 
-| Ingredient        | Amount | Sources |
-|-------------------|-------:|---------|
-| Sugar             | 81.84% |         |
-| Guarana           |  6.19% | [1]     |
-| Citric Acid       |  5.29% | [2]     |
-| Sodiumbicarbonate |  2.59% | [3]     |
-| Aroma             |  2.50% | [4]     |
-| Caffeine          |  1.60% | [5]     |
+| Ingredient        | Amount | Sources         |
+|-------------------|-------:|-----------------|
+| Sugar             | 81.84% |                 |
+| Guarana           |  6.19% | [amazon][1]     |
+| Citric Acid       |  5.29% | [amazon][2]     |
+| Sodiumbicarbonate |  2.59% | [amazon][3]     |
+| Aroma             |  2.50% | [amazon][4]     |
+| Caffeine          |  1.60% | [amazon][5]     |
 
 ## Directions
 Source: common sense

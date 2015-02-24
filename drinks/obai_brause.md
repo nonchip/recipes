@@ -9,7 +9,8 @@ Source: [30C3 wiki][c0]
 | Guarana           |  6.19% | [amazon][a0]    |
 | Citric Acid       |  5.29% | [amazon][a1]    |
 | Sodiumbicarbonate |  2.59% | [amazon][a2]    |
-| Aroma             |  2.50% | [amazon][a3]    |
+| Aroma             |  2.50% |                 |
+|  * Cherry         |        | [amazon][a3]    |
 | Caffeine          |  1.60% | [amazon][a4]    |
 
 ## Directions

@@ -22,10 +22,19 @@ Source: common sense
 
 > Note: Citric Acid + Sodiumbicarbonate are hydrophillic as hell, don't let any water touch the powder. Even air humidity will mess it up, so be careful!
 
-### for the drink
+### drink
+I'd recommend to:
 1. Mix powder with water
 2. Wait for powder to dissolve
 3. Drink it
+
+### eat
+some people reported to:
+* eat the powder
+* dip $stuff into the powder and eat $stuff
+
+### snort
+go back to kindergarten, will you?
 
 [c0]: https://events.ccc.de/congress/2013/wiki/Projects:OBAI_Brause#Version_3
 [a0]: http://www.amazon.de/dp/B007SN3TVO

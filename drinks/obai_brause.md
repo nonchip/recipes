@@ -1,25 +1,25 @@
 # OBAI Brause
 
 ## Ingredients
-Source: [30C3 wiki][c0]
+Source: [30C3 wiki][cWiki]
 
-| Ingredient              | Amount | Sources         |
-|-------------------------|-------:|-----------------|
-| Sugar                   | 81.84% | local whatever  |
-| Guarana                 |  6.19% | [amazon][a0]    |
-| Citric Acid             |  5.29% | [amazon][a1]    |
-| Sodiumbicarbonate       |  2.59% | [amazon][a2]    |
-| Aroma                   |  2.50% |                 |
-| &nbsp;&nbsp; Cherry     |        | [amazon][a3]    |
-| &nbsp;&nbsp; Strawberry |        | [amazon][a6]    |
-| Caffeine                |  1.60% | [amazon][a4]    |
+| Ingredient              | Amount | Sources            |
+|-------------------------|-------:|--------------------|
+| Sugar                   | 81.84% | local whatever     |
+| Guarana                 |  6.19% | [amazon][aGuarana] |
+| Citric Acid             |  5.29% | [amazon][aCitAc]   |
+| Sodiumbicarbonate       |  2.59% | [amazon][aNaHCO3]  |
+| Aroma                   |  2.50% |                    |
+| &nbsp;&nbsp; Cherry     |        | [amazon][aCherry]  |
+| &nbsp;&nbsp; Strawberry |        | [amazon][aStrawB]  |
+| Caffeine                |  1.60% | [amazon][aCaff]    |
 
 ## Directions
 Source: common sense
 
 ### preparing the powder
 1. Mix all ingredients
-2. Put in desired container. Traditionally, [test tubes][a5] [were used][t0]
+2. Put in desired container. Traditionally, [test tubes][aTTube] [were used][tTTube]
 
 > Note: Citric Acid + Sodiumbicarbonate are hydrophillic as hell, don't let any water touch the powder. Even air humidity will mess it up, so be careful!
 
@@ -38,12 +38,12 @@ some people reported to:
 ### snort
 go back to kindergarten, will you?
 
-[c0]: https://events.ccc.de/congress/2013/wiki/Projects:OBAI_Brause#Version_3
-[a0]: http://www.amazon.de/dp/B007SN3TVO
-[a1]: http://www.amazon.de/dp/B008AI1YUY
-[a2]: http://www.amazon.de/dp/B00ALSHMA2
-[a3]: http://www.amazon.de/dp/B008M7DD52
-[a4]: http://www.amazon.de/dp/B00MG2TKN8
-[a5]: http://www.amazon.de/dp/B005ZQPDT2
-[a6]: http://www.amazon.de/dp/B0074K9CM6
-[t0]: https://twitter.com/musevg/status/416613591987810304
+[cWiki]:    https://events.ccc.de/congress/2013/wiki/Projects:OBAI_Brause#Version_3
+[aGuarana]: http://www.amazon.de/dp/B007SN3TVO
+[aCitAc]:   http://www.amazon.de/dp/B008AI1YUY
+[aNaHCO3]:  http://www.amazon.de/dp/B00ALSHMA2
+[aCherry]:  http://www.amazon.de/dp/B008M7DD52
+[aCaff]:    http://www.amazon.de/dp/B00MG2TKN8
+[aTTube]:   http://www.amazon.de/dp/B005ZQPDT2
+[aStrawB]:  http://www.amazon.de/dp/B0074K9CM6
+[tTTube]:   https://twitter.com/musevg/status/416613591987810304

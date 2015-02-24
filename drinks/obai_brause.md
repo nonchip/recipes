@@ -3,15 +3,16 @@
 ## Ingredients
 Source: [30C3 wiki][c0]
 
-| Ingredient          | Amount | Sources         |
-|---------------------|-------:|-----------------|
-| Sugar               | 81.84% | local whatever  |
-| Guarana             |  6.19% | [amazon][a0]    |
-| Citric Acid         |  5.29% | [amazon][a1]    |
-| Sodiumbicarbonate   |  2.59% | [amazon][a2]    |
-| Aroma               |  2.50% |                 |
-| &nbsp;&nbsp; Cherry |        | [amazon][a3]    |
-| Caffeine            |  1.60% | [amazon][a4]    |
+| Ingredient              | Amount | Sources         |
+|-------------------------|-------:|-----------------|
+| Sugar                   | 81.84% | local whatever  |
+| Guarana                 |  6.19% | [amazon][a0]    |
+| Citric Acid             |  5.29% | [amazon][a1]    |
+| Sodiumbicarbonate       |  2.59% | [amazon][a2]    |
+| Aroma                   |  2.50% |                 |
+| &nbsp;&nbsp; Cherry     |        | [amazon][a3]    |
+| &nbsp;&nbsp; Strawberry |        | [amazon][a6]    |
+| Caffeine                |  1.60% | [amazon][a4]    |
 
 ## Directions
 Source: common sense
@@ -44,4 +45,5 @@ go back to kindergarten, will you?
 [a3]: http://www.amazon.de/dp/B008M7DD52
 [a4]: http://www.amazon.de/dp/B00MG2TKN8
 [a5]: http://www.amazon.de/dp/B005ZQPDT2
+[a6]: http://www.amazon.de/dp/B0074K9CM6
 [t0]: https://twitter.com/musevg/status/416613591987810304

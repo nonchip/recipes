@@ -16,7 +16,7 @@ Source: [30C3 wiki][c0]
 ## Directions
 Source: common sense
 
-### for the powder
+### preparing the powder
 1. Mix all ingredients
 2. Put in desired container. Traditionally, [test tubes][a5] [were used][t0]
 

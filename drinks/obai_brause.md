@@ -17,7 +17,7 @@ Source: common sense
 
 ### for the powder
 1. Mix all ingredients
-2. Put in desired container
+2. Put in desired container. Traditionally, [test tubes][6] were used
 
 Note: Citric Acid + Sodiumbicarbonate are hydrophillic as hell, don't let too much air humidity (or even other sources of water) touch the powder.
 
@@ -32,3 +32,4 @@ Note: Citric Acid + Sodiumbicarbonate are hydrophillic as hell, don't let too mu
 [3]: http://www.amazon.de/dp/B00ALSHMA2
 [4]: http://www.amazon.de/dp/B008M7DD52
 [5]: http://www.amazon.de/dp/B00MG2TKN8
+[6]: http://www.amazon.de/dp/B008KYQLYW

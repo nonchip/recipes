@@ -14,4 +14,8 @@ c.a. 30-40 Minuten bei 200°C backen.
 Der Kuchen sollte dann in der Mitte schön weich und cremig und
 außen fest sein.
 
+![Veganer Schokokuchen][cakeimage]
+
 Quelle: [uwap](https://twitter.com/uwap_de)
+
+[cakeimage]: ../images/veganer_schokokuchen.jpg "Veganer Schokokuchen"

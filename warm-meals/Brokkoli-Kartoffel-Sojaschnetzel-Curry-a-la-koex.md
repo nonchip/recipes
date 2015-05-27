@@ -1,5 +1,5 @@
 # Brokkoli-Kartoffel-Sojaschnetzel-Curry.
-## Oder irgendwie sowas.
+*Oder irgendwie sowas.*
 
 * Brokkoli, Kartoffeln gekocht.
 * Die Sojaschnetzel in Gemüsebrühe einweichen und mit Currypulver anbraten.
